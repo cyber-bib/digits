@@ -1,0 +1,15 @@
+{
+  "configurations": [
+  {
+    "name": "(Windows) Launch",
+    "type": "cppvsdbg",
+    "request": "launch",
+    "program": "${workspaceFolder}/out/Debug/main.exe",
+    "args": ["0", "8", "9", "8"],
+    "stopAtEntry": false,
+    "cwd": "${workspaceFolder}",
+    "environment": [],
+    "console": "integratedTerminal"
+  }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 0,
+  "configurations": [
+    {
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ]
+}
